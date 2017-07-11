@@ -8,3 +8,4 @@ with:
 
 disableAssassins.OnObjectSpawn(pid, cellDescription)
 
+inside server.lua
