@@ -1,11 +1,3 @@
 # tes3mp-disable-assassins
 
-If you are also running deathdrop.lua, replace the 
-
-deathDrop.OnObjectSpawn(pid, cellDescription) 
-
-with:
-
-disableAssassins.OnObjectSpawn(pid, cellDescription)
-
-inside server.lua
+A modified version of David-AW's script, for tes3mp v0.6, which disables assassin spawning until the main quest has been completed.
